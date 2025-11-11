@@ -1,2 +1,0 @@
-# myfirstgithubcode
-THIS IS MY FIRST GITHUB REPOSITORY
